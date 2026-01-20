@@ -1,6 +1,6 @@
 # GigIT.
 
-Fast-track freelancer verification with AI-powered document analysis
+Fast-track freelancer verification with AI-powered document analysis. Explore here: https://gig-go2mbwclt-jemimas-projects-f316e72d.vercel.app/ 
 
 ---
 
