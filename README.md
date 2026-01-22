@@ -4,14 +4,29 @@ Fast-track freelancer verification with AI-powered document analysis. Explore he
 
 ---
 
+### Bank Clients
+*Tools for financial institutions to assess and manage applicant risk.*
+
+**Home & Authentication**
 ![Home Page](./images/home_page.png)
 ![Bank Log In](./images/bank_login.png)
+
+**Risk & Decisioning Dashboard**
 ![Bank Dashboard](./images/bank_dashboard.png)
 ![Risk Customization Tool](./images/bank_risktool.png)
+
+---
+
+### Worker Clients
+*Simple, transparent application experience for end users.*
+
+**Authentication**
 ![Worker Log In](./images/worker_login.png)
-![Application Success](./images/application_approved.png)
-![Application Rejected](./images/application_denied.png)
-![Application Pending](./images/application_pending.png)
+
+**Application Outcomes**
+![Approved](./images/application_approved.png)
+![Rejected](./images/application_denied.png)
+![Pending](./images/application_pending.png)
 
 
 ## About
