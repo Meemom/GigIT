@@ -14,6 +14,18 @@ We noticed that freelancers often face delays in getting verified by banks becau
 
 ---
 
+## App Design
+![Home Page](./images/home_page.png)
+![Bank Log In](./images/bank_login.png)
+![Bank Dashboard](./images/bank_dashboard.png)
+![Risk Customization Tool](./images/bank_risktool.png)
+![Worker Log In](./images/worker_login.png)
+![Application Success](./images/application_approved.png)
+![Application Rejected](./images/application_denied.png)
+![Application Pending](./images/application_pending.png)
+
+---
+
 ## What it does
 - Users submit their tax documents (e.g., 1099 forms) to the API.  
 - The API analyzes the documents using **Gemini 2.5 Pro** to extract relevant information.  
