@@ -4,17 +4,6 @@ Fast-track freelancer verification with AI-powered document analysis. Explore he
 
 ---
 
-## About
-**GigIT** is a backend API designed to help banks verify freelancers quickly using their tax forms (e.g., 1099). Users submit their documents, and our API analyzes them using **Gemini 2.5 Pro** to produce a verification report. Underwriters then review the report, significantly reducing the time it takes for freelancers to get approved.
-
----
-
-## Inspiration
-We noticed that freelancers often face delays in getting verified by banks because standard verification processes are slow and require manual review of tax documents. We wanted to create a solution that leverages **AI** to automate document analysis and speed up verification, making banking more accessible for freelancers.
-
----
-
-## App Design
 ![Home Page](./images/home_page.png)
 ![Bank Log In](./images/bank_login.png)
 ![Bank Dashboard](./images/bank_dashboard.png)
@@ -23,6 +12,15 @@ We noticed that freelancers often face delays in getting verified by banks becau
 ![Application Success](./images/application_approved.png)
 ![Application Rejected](./images/application_denied.png)
 ![Application Pending](./images/application_pending.png)
+
+
+## About
+**GigIT** is a backend API designed to help banks verify freelancers quickly using their tax forms (e.g., 1099). Users submit their documents, and our API analyzes them using **Gemini 2.5 Pro** to produce a verification report. Underwriters then review the report, significantly reducing the time it takes for freelancers to get approved.
+
+---
+
+## Inspiration
+We noticed that freelancers often face delays in getting verified by banks because standard verification processes are slow and require manual review of tax documents. We wanted to create a solution that leverages **AI** to automate document analysis and speed up verification, making banking more accessible for freelancers.
 
 ---
 
